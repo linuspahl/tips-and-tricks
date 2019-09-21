@@ -2,7 +2,13 @@
 
 Table of Contents:
 
+[Style Guides](#style-guids)\
 [Page Transitions](#page-transitions)
+
+## Style Guides <a name="style-guids"></a>
+
+- [styleguides.io](http://styleguides.io/)\
+  A good resource for website style guids.
 
 ## Page Transitions <a name="page-transitions"></a>
 

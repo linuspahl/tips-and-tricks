@@ -10,4 +10,5 @@ Here is an overview of all categories + subcategories
 
 ## [UI Design](ui-design/README.md) <a name="ui-design"></a>
 
+- ### [Style Guids](ui-design/README.md#style-guids)
 - ### [Page Transitions](ui-design/README.md#page-transitions)
