@@ -6,7 +6,11 @@ Every category, like JavaScript and CSS, has it's own directory, which contains 
 
 Here is an overview of all categories + subcategories:
 
-## [UI Design](ui-design/README.md) <a name="ui-design"></a>
+## [UI Design](ui-design/README.md)
 
 - ### [Style Guids](ui-design/README.md#style-guids)
 - ### [Page Transitions](ui-design/README.md#page-transitions)
+
+## [macOS](macos/README.md)
+
+- ### [Keyboard shotcuts](macos/README.md#keyboard-shortcuts)
