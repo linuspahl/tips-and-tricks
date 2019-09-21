@@ -1,7 +1,5 @@
 # UI Design
 
-Table of Contents:
-
 [Style Guides](#style-guids)\
 [Page Transitions](#page-transitions)
 
