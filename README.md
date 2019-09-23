@@ -12,8 +12,14 @@ Here is an overview of all categories + subcategories:
 
 ## [CSS](css/README.md)
 
-- ### [Snippets]css/README.md#snippets)
+- ### [Snippets](css/README.md#snippets)
 
 ## [macOS](macos/README.md)
 
 - ### [Keyboard shotcuts](macos/README.md#keyboard-shortcuts)
+
+- ### [Style Guids](ui-design/README.md#style-guids)
+
+## [SSH](ssh/README.md)
+- ### [Generating a new SSH Key](ssh/README.md#key-generation)
+- ### [Adding the SSH Key to the SSH Agent](ssh/README.md#add-key-to-agent)
