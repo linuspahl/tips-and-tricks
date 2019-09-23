@@ -9,7 +9,10 @@ Here is an overview of all categories + subcategories:
 ## [UI Design](ui-design/README.md)
 
 - ### [Style Guids](ui-design/README.md#style-guids)
-- ### [Page Transitions](ui-design/README.md#page-transitions)
+
+## [CSS](css/README.md)
+
+- ### [Snippets]css/README.md#snippets)
 
 ## [macOS](macos/README.md)
 
