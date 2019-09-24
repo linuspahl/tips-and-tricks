@@ -10,6 +10,10 @@ Here is an overview of all categories + subcategories:
 
 - ### [Style Guids](ui-design/README.md#style-guids)
 
+## [UI Components](ui-components/README.md)
+
+- ### [Snippets](ui-components/README.md#snippets)
+
 ## [CSS](css/README.md)
 
 - ### [Snippets](css/README.md#snippets)
