@@ -2,6 +2,7 @@
 
 [Style Guides](#style-guids)\
 [Page Transitions](#page-transitions)
+[Responsive Font Size](#responsive-font-size)
 
 ## Style Guides <a name="style-guids"></a>
 
@@ -13,3 +14,7 @@
 - [page-transitions.com](https://page-transitions.com)\
   Great example for native like page transitions.\
   There is also an [blog post about the creation](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web/).
+
+## Responsive Font <a name="responsive-font"></a>
+- [codepen example and explanation](https://codepen.io/MadeByMike/pen/YPJJYv)\
+  ... of a concept for a truly responsive font.

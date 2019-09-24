@@ -9,6 +9,8 @@ Here is an overview of all categories + subcategories:
 ## [UI Design](ui-design/README.md)
 
 - ### [Style Guids](ui-design/README.md#style-guids)
+- ### [Page Transitions](ui-design/README.md#page-transitions)
+- ### [Responsive Font](ui-design/README.md#responsive-font)
 
 ## [UI Components](ui-components/README.md)
 
@@ -17,6 +19,7 @@ Here is an overview of all categories + subcategories:
 ## [CSS](css/README.md)
 
 - ### [Snippets](css/README.md#snippets)
+- ### [Responsive Design](css/README.md#responsive-design)
 
 ## [macOS](macos/README.md)
 
