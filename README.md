@@ -16,6 +16,10 @@ Here is an overview of all categories + subcategories:
 
 - ### [Snippets](ui-components/README.md#snippets)
 
+## [JavaScript](js/README.md)
+
+- ### [Debugging](js/README.md#debugging)
+
 ## [CSS](css/README.md)
 
 - ### [Snippets](css/README.md#snippets)
@@ -28,5 +32,6 @@ Here is an overview of all categories + subcategories:
 - ### [Style Guids](ui-design/README.md#style-guids)
 
 ## [SSH](ssh/README.md)
+
 - ### [Generating a new SSH Key](ssh/README.md#key-generation)
 - ### [Adding the SSH Key to the SSH Agent](ssh/README.md#add-key-to-agent)
