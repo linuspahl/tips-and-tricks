@@ -16,6 +16,10 @@ Here is an overview of all categories + subcategories:
 
 - ### [Snippets](ui-components/README.md#snippets)
 
+## [Web Performance](web-performance/README.md)
+
+- ### [Fundamentals](web-performance/README.md#fundamentals)
+
 ## [JavaScript](js/README.md)
 
 - ### [Debugging](js/README.md#debugging)
