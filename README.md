@@ -25,6 +25,10 @@ Here is an overview of all categories + subcategories:
 - ### [Snippets](css/README.md#snippets)
 - ### [Responsive Design](css/README.md#responsive-design)
 
+## [GraphQL](graphql/README.md)
+
+- ### [Pagination](graphql/README.md#pagination)
+
 ## [macOS](macos/README.md)
 
 - ### [Keyboard shotcuts](macos/README.md#keyboard-shortcuts)
