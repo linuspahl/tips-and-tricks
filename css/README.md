@@ -6,6 +6,8 @@
 
 ## Snippets <a name="snippets"></a>
 
+- [CSS Tricks - CSS Snippets](https://css-tricks.com/snippets/css/)\
+  A collection of simple and complexe CSS snippets.
 - [give-n-go.co](https://give-n-go.co/)\
   Little CSS snippets for mainly [spinners](https://give-n-go.co/tagged/loaders).
 
