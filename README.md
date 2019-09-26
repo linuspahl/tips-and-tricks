@@ -24,6 +24,7 @@ Here is an overview of all categories + subcategories:
 
 - ### [Snippets](css/README.md#snippets)
 - ### [Responsive Design](css/README.md#responsive-design)
+- ### [Normalization](css/README.md#normalization)
 
 ## [GraphQL](graphql/README.md)
 
@@ -32,7 +33,6 @@ Here is an overview of all categories + subcategories:
 ## [macOS](macos/README.md)
 
 - ### [Keyboard shotcuts](macos/README.md#keyboard-shortcuts)
-
 - ### [Style Guids](ui-design/README.md#style-guids)
 
 ## [SSH](ssh/README.md)
