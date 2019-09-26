@@ -25,6 +25,10 @@ Here is an overview of all categories + subcategories:
 
 - ### [Debugging](js/README.md#debugging)
 
+## [React](react/README.md)
+
+- ### [Project structure](react/README.md#project-structure)
+
 ## [CSS](css/README.md)
 
 - ### [Snippets](css/README.md#snippets)
