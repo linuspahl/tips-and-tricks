@@ -38,7 +38,8 @@ Here is an overview of all categories + subcategories:
 ## [macOS](macos/README.md)
 
 - ### [Keyboard shotcuts](macos/README.md#keyboard-shortcuts)
-- ### [Style Guids](ui-design/README.md#style-guids)
+- ### [Style Guids](macos/README.md#style-guids)
+- ### [Disable boot sound](macos/README.md#disable-boot-sound)
 
 ## [SSH](ssh/README.md)
 
