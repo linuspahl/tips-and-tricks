@@ -38,6 +38,7 @@ Here is an overview of all categories + subcategories:
 ## [GraphQL](graphql/README.md)
 
 - ### [Pagination](graphql/README.md#pagination)
+- ### [Datafetching](graphql/README.md#datafetching)
 
 ## [macOS](macos/README.md)
 
