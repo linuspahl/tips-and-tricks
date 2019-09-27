@@ -1,6 +1,6 @@
 # JavaScript
 
-[Snippets](#snippets)
+[Snippets](#snippets)\
 [Debugging](#debugging)
 
 ## Debugging <a name="debugging"></a>

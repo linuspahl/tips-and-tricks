@@ -1,7 +1,7 @@
 # CSS
 
-[Snippets](#snippets)
-[Responsive Design](#responsive-design)
+[Snippets](#snippets)\
+[Responsive Design](#responsive-design)\
 [Normalization](#normalization)
 
 ## Snippets <a name="snippets"></a>

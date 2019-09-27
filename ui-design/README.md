@@ -1,8 +1,8 @@
 # UI Design
 
 [Style Guides](#style-guids)\
-[Page Transitions](#page-transitions)
-[Responsive Font Size](#responsive-font-size)
+[Page Transitions](#page-transitions)\
+[Responsive Font Size](#responsive-font-size)\
 [Forms](#forms)
 
 ## Style Guides <a name="style-guids"></a>
