@@ -23,7 +23,9 @@ Here is an overview of all categories + subcategories:
 
 ## [JavaScript](js/README.md)
 
+- ### [Snippets](js/README.md#snippets)
 - ### [Debugging](js/README.md#debugging)
+- ### [Web APIs](js/README.md#web-apis)
 
 ## [React](react/README.md)
 
