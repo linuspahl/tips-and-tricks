@@ -42,6 +42,10 @@ Here is an overview of all categories + subcategories:
 - ### [Pagination](graphql/README.md#pagination)
 - ### [Datafetching](graphql/README.md#datafetching)
 
+## [VS Code](vs-code/README.md)
+
+- ### [Folder creation](vs-code/README.md#folder-creation)
+
 ## [macOS](macos/README.md)
 
 - ### [Keyboard shotcuts](macos/README.md#keyboard-shortcuts)
