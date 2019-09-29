@@ -15,6 +15,11 @@
 
 - [Mastering The Developer Tools Console](https://blog.teamtreehouse.com/mastering-developer-tools-console)\
   Explanation of useful console API methods, like console.profile() for CPU profiling.
+- Find the triggered event listener\
+  Image you press a key, something happens on the website and you want to know\
+  where an event listener got triggered. You can set a breakpoint for a specific\
+  type of event listener (keyboard, mouse, ...) in the Chrome DevTools under\
+  `source -> right sidebar -> event listener breakpoints`
 
 ## Snippets <a name="snippets"></a>
 
