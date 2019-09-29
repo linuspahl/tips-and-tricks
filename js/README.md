@@ -1,8 +1,15 @@
 # JavaScript
 
+[Tutorials](#tutorials)\
 [Snippets](#snippets)\
 [Debugging](#debugging)\
 [Web APIs](#web-apis)
+
+## Tutorials <a name="tutorials"></a>
+
+- [javascript.info](https://javascript.info/)\
+  "How it's done now. From the basics to advanced topics with simple, but detailed explanations."\
+  Best ressource for JavaScript related topics I encountered.
 
 ## Debugging <a name="debugging"></a>
 
