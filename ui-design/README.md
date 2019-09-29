@@ -21,6 +21,14 @@
 - [codepen example and explanation](https://codepen.io/MadeByMike/pen/YPJJYv)\
   ... of a concept for a truly responsive font.
 
+## Finding a font <a name="finding-a-font"></a>
+
+- [fontjoy.com](https://fontjoy.com/)\
+  Website for font pairing. Very inspirational when finding new fonts.\
+  It is hard to make the look of your text uniq and rememberable.\
+  Using a different font for the headline and the content is a good strategy.\
+  Findind a good combination is still hard, this website will help you.
+
 ## Forms <a name="forms"></a>
 
 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)\
